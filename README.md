@@ -14,7 +14,7 @@ Secure & Scalable – Built with modern frameworks ensuring data privacy and sca
 
 🛠️ Tech Stack
 
-Backend: .NET Core / ASP.NET MVC
+Backend: Node
 
 Frontend: React 
 
